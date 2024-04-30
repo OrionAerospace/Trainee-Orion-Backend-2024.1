@@ -1,4 +1,4 @@
-package com.orion.trainee.mapper;
+package com.orion.trainee.model.mapper;
 
 import com.orion.trainee.dto.UserDto;
 import com.orion.trainee.model.User;

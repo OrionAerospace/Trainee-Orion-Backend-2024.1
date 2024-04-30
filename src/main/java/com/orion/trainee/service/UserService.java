@@ -2,7 +2,7 @@ package com.orion.trainee.service;
 
 import com.orion.trainee.dto.UserDto;
 import com.orion.trainee.exception.ResourceNotFoundException;
-import com.orion.trainee.mapper.UserMapper;
+import com.orion.trainee.model.mapper.UserMapper;
 import com.orion.trainee.model.Book;
 import com.orion.trainee.model.User;
 import com.orion.trainee.repository.BookRepository;
